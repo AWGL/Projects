@@ -7,5 +7,9 @@ Ideas for projects
 
 * Update schedule for locally downloaded databases and software
 
+* Ideas for reducing burden of log file checking
+
+* Code review plugin in github (Erik?)
+
 
 
