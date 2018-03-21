@@ -5,5 +5,7 @@ Ideas for projects
 
 * HAIL: distributed analysis / management of VCF files using SPARK
 
+* Update schedule for locally downloaded databases and software
+
 
 
